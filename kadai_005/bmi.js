@@ -1,6 +1,7 @@
 //変数の宣言
 let weight;
 let height;
+let bmi;
 
 //値の代入
 weight = 68;
